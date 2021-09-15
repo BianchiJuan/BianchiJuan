@@ -10,3 +10,5 @@ Although im just starting i have knowledge on Python 2.8, C/C++ and Java. I also
 My plan is to use the courses along with daily practice and focus in order to start my carrer.
 
 I dont really have much more to add here, so i hope you can find something to look at :).
+
+I am testing how github works for now :D
